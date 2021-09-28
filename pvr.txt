@@ -1,3 +1,4 @@
 movie show -7am 
 movie 2nd show -10.30am
 movie 3rd show -1.30pm
+movie 4th show -4.30pm
