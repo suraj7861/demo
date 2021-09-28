@@ -1,1 +1,2 @@
 movie show -7am 
+movie 2nd show -10.30am
